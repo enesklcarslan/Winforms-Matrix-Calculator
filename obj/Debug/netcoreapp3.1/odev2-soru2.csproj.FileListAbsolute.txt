@@ -1,0 +1,60 @@
+C:\Users\enesk\Desktop\EnesKılıçarslan-g201210016-Odev2\odev2-soru2\odev2-soru2\odev2-soru2\obj\Debug\netcoreapp3.1\odev2-soru2.csprojAssemblyReference.cache
+C:\Users\enesk\Desktop\EnesKılıçarslan-g201210016-Odev2\odev2-soru2\odev2-soru2\odev2-soru2\obj\Debug\netcoreapp3.1\odev2_soru2.Form1.resources
+C:\Users\enesk\Desktop\EnesKılıçarslan-g201210016-Odev2\odev2-soru2\odev2-soru2\odev2-soru2\obj\Debug\netcoreapp3.1\odev2-soru2.csproj.GenerateResource.cache
+C:\Users\enesk\Desktop\EnesKılıçarslan-g201210016-Odev2\odev2-soru2\odev2-soru2\odev2-soru2\obj\Debug\netcoreapp3.1\odev2-soru2.AssemblyInfoInputs.cache
+C:\Users\enesk\Desktop\EnesKılıçarslan-g201210016-Odev2\odev2-soru2\odev2-soru2\odev2-soru2\obj\Debug\netcoreapp3.1\odev2-soru2.AssemblyInfo.cs
+C:\Users\enesk\Desktop\EnesKılıçarslan-g201210016-Odev2\odev2-soru2\odev2-soru2\odev2-soru2\obj\Debug\netcoreapp3.1\odev2-soru2.csproj.CoreCompileInputs.cache
+C:\Users\enesk\Desktop\EnesKılıçarslan-g201210016-Odev2\odev2-soru2\odev2-soru2\odev2-soru2\bin\Debug\netcoreapp3.1\odev2-soru2.exe
+C:\Users\enesk\Desktop\EnesKılıçarslan-g201210016-Odev2\odev2-soru2\odev2-soru2\odev2-soru2\bin\Debug\netcoreapp3.1\odev2-soru2.deps.json
+C:\Users\enesk\Desktop\EnesKılıçarslan-g201210016-Odev2\odev2-soru2\odev2-soru2\odev2-soru2\bin\Debug\netcoreapp3.1\odev2-soru2.runtimeconfig.json
+C:\Users\enesk\Desktop\EnesKılıçarslan-g201210016-Odev2\odev2-soru2\odev2-soru2\odev2-soru2\bin\Debug\netcoreapp3.1\odev2-soru2.runtimeconfig.dev.json
+C:\Users\enesk\Desktop\EnesKılıçarslan-g201210016-Odev2\odev2-soru2\odev2-soru2\odev2-soru2\bin\Debug\netcoreapp3.1\odev2-soru2.dll
+C:\Users\enesk\Desktop\EnesKılıçarslan-g201210016-Odev2\odev2-soru2\odev2-soru2\odev2-soru2\bin\Debug\netcoreapp3.1\odev2-soru2.pdb
+C:\Users\enesk\Desktop\EnesKılıçarslan-g201210016-Odev2\odev2-soru2\odev2-soru2\odev2-soru2\obj\Debug\netcoreapp3.1\odev2-soru2.dll
+C:\Users\enesk\Desktop\EnesKılıçarslan-g201210016-Odev2\odev2-soru2\odev2-soru2\odev2-soru2\obj\Debug\netcoreapp3.1\odev2-soru2.pdb
+C:\Users\enesk\Desktop\EnesKılıçarslan-g201210016-Odev2\odev2-soru2\odev2-soru2\odev2-soru2\obj\Debug\netcoreapp3.1\odev2-soru2.genruntimeconfig.cache
+C:\Users\enesk\Desktop\EnesKılıçarslan-g201210016-Odev2\array denemesi\odev2-soru2\odev2-soru2\bin\Debug\netcoreapp3.1\odev2-soru2.exe
+C:\Users\enesk\Desktop\EnesKılıçarslan-g201210016-Odev2\array denemesi\odev2-soru2\odev2-soru2\bin\Debug\netcoreapp3.1\odev2-soru2.deps.json
+C:\Users\enesk\Desktop\EnesKılıçarslan-g201210016-Odev2\array denemesi\odev2-soru2\odev2-soru2\bin\Debug\netcoreapp3.1\odev2-soru2.runtimeconfig.json
+C:\Users\enesk\Desktop\EnesKılıçarslan-g201210016-Odev2\array denemesi\odev2-soru2\odev2-soru2\bin\Debug\netcoreapp3.1\odev2-soru2.runtimeconfig.dev.json
+C:\Users\enesk\Desktop\EnesKılıçarslan-g201210016-Odev2\array denemesi\odev2-soru2\odev2-soru2\bin\Debug\netcoreapp3.1\odev2-soru2.dll
+C:\Users\enesk\Desktop\EnesKılıçarslan-g201210016-Odev2\array denemesi\odev2-soru2\odev2-soru2\bin\Debug\netcoreapp3.1\odev2-soru2.pdb
+C:\Users\enesk\Desktop\EnesKılıçarslan-g201210016-Odev2\array denemesi\odev2-soru2\odev2-soru2\obj\Debug\netcoreapp3.1\odev2-soru2.csprojAssemblyReference.cache
+C:\Users\enesk\Desktop\EnesKılıçarslan-g201210016-Odev2\array denemesi\odev2-soru2\odev2-soru2\obj\Debug\netcoreapp3.1\odev2_soru2.Form1.resources
+C:\Users\enesk\Desktop\EnesKılıçarslan-g201210016-Odev2\array denemesi\odev2-soru2\odev2-soru2\obj\Debug\netcoreapp3.1\odev2-soru2.csproj.GenerateResource.cache
+C:\Users\enesk\Desktop\EnesKılıçarslan-g201210016-Odev2\array denemesi\odev2-soru2\odev2-soru2\obj\Debug\netcoreapp3.1\odev2-soru2.AssemblyInfoInputs.cache
+C:\Users\enesk\Desktop\EnesKılıçarslan-g201210016-Odev2\array denemesi\odev2-soru2\odev2-soru2\obj\Debug\netcoreapp3.1\odev2-soru2.AssemblyInfo.cs
+C:\Users\enesk\Desktop\EnesKılıçarslan-g201210016-Odev2\array denemesi\odev2-soru2\odev2-soru2\obj\Debug\netcoreapp3.1\odev2-soru2.csproj.CoreCompileInputs.cache
+C:\Users\enesk\Desktop\EnesKılıçarslan-g201210016-Odev2\array denemesi\odev2-soru2\odev2-soru2\obj\Debug\netcoreapp3.1\odev2-soru2.dll
+C:\Users\enesk\Desktop\EnesKılıçarslan-g201210016-Odev2\array denemesi\odev2-soru2\odev2-soru2\obj\Debug\netcoreapp3.1\odev2-soru2.pdb
+C:\Users\enesk\Desktop\EnesKılıçarslan-g201210016-Odev2\array denemesi\odev2-soru2\odev2-soru2\obj\Debug\netcoreapp3.1\odev2-soru2.genruntimeconfig.cache
+C:\Users\enesk\Desktop\EnesKılıçarslan-g201210016-Odev2\odev2-soru2\odev2-soru2\bin\Debug\netcoreapp3.1\odev2-soru2.exe
+C:\Users\enesk\Desktop\EnesKılıçarslan-g201210016-Odev2\odev2-soru2\odev2-soru2\bin\Debug\netcoreapp3.1\odev2-soru2.deps.json
+C:\Users\enesk\Desktop\EnesKılıçarslan-g201210016-Odev2\odev2-soru2\odev2-soru2\bin\Debug\netcoreapp3.1\odev2-soru2.runtimeconfig.json
+C:\Users\enesk\Desktop\EnesKılıçarslan-g201210016-Odev2\odev2-soru2\odev2-soru2\bin\Debug\netcoreapp3.1\odev2-soru2.runtimeconfig.dev.json
+C:\Users\enesk\Desktop\EnesKılıçarslan-g201210016-Odev2\odev2-soru2\odev2-soru2\bin\Debug\netcoreapp3.1\odev2-soru2.dll
+C:\Users\enesk\Desktop\EnesKılıçarslan-g201210016-Odev2\odev2-soru2\odev2-soru2\bin\Debug\netcoreapp3.1\odev2-soru2.pdb
+C:\Users\enesk\Desktop\EnesKılıçarslan-g201210016-Odev2\odev2-soru2\odev2-soru2\obj\Debug\netcoreapp3.1\odev2-soru2.csprojAssemblyReference.cache
+C:\Users\enesk\Desktop\EnesKılıçarslan-g201210016-Odev2\odev2-soru2\odev2-soru2\obj\Debug\netcoreapp3.1\odev2_soru2.Form1.resources
+C:\Users\enesk\Desktop\EnesKılıçarslan-g201210016-Odev2\odev2-soru2\odev2-soru2\obj\Debug\netcoreapp3.1\odev2-soru2.csproj.GenerateResource.cache
+C:\Users\enesk\Desktop\EnesKılıçarslan-g201210016-Odev2\odev2-soru2\odev2-soru2\obj\Debug\netcoreapp3.1\odev2-soru2.AssemblyInfoInputs.cache
+C:\Users\enesk\Desktop\EnesKılıçarslan-g201210016-Odev2\odev2-soru2\odev2-soru2\obj\Debug\netcoreapp3.1\odev2-soru2.AssemblyInfo.cs
+C:\Users\enesk\Desktop\EnesKılıçarslan-g201210016-Odev2\odev2-soru2\odev2-soru2\obj\Debug\netcoreapp3.1\odev2-soru2.csproj.CoreCompileInputs.cache
+C:\Users\enesk\Desktop\EnesKılıçarslan-g201210016-Odev2\odev2-soru2\odev2-soru2\obj\Debug\netcoreapp3.1\odev2-soru2.dll
+C:\Users\enesk\Desktop\EnesKılıçarslan-g201210016-Odev2\odev2-soru2\odev2-soru2\obj\Debug\netcoreapp3.1\odev2-soru2.pdb
+C:\Users\enesk\Desktop\EnesKılıçarslan-g201210016-Odev2\odev2-soru2\odev2-soru2\obj\Debug\netcoreapp3.1\odev2-soru2.genruntimeconfig.cache
+C:\Users\enesk\Desktop\coding\EnesKılıçarslan-g201210016-Odev2\odev2-soru2\odev2-soru2\bin\Debug\netcoreapp3.1\odev2-soru2.exe
+C:\Users\enesk\Desktop\coding\EnesKılıçarslan-g201210016-Odev2\odev2-soru2\odev2-soru2\bin\Debug\netcoreapp3.1\odev2-soru2.deps.json
+C:\Users\enesk\Desktop\coding\EnesKılıçarslan-g201210016-Odev2\odev2-soru2\odev2-soru2\bin\Debug\netcoreapp3.1\odev2-soru2.runtimeconfig.json
+C:\Users\enesk\Desktop\coding\EnesKılıçarslan-g201210016-Odev2\odev2-soru2\odev2-soru2\bin\Debug\netcoreapp3.1\odev2-soru2.runtimeconfig.dev.json
+C:\Users\enesk\Desktop\coding\EnesKılıçarslan-g201210016-Odev2\odev2-soru2\odev2-soru2\bin\Debug\netcoreapp3.1\odev2-soru2.dll
+C:\Users\enesk\Desktop\coding\EnesKılıçarslan-g201210016-Odev2\odev2-soru2\odev2-soru2\bin\Debug\netcoreapp3.1\odev2-soru2.pdb
+C:\Users\enesk\Desktop\coding\EnesKılıçarslan-g201210016-Odev2\odev2-soru2\odev2-soru2\obj\Debug\netcoreapp3.1\odev2-soru2.csprojAssemblyReference.cache
+C:\Users\enesk\Desktop\coding\EnesKılıçarslan-g201210016-Odev2\odev2-soru2\odev2-soru2\obj\Debug\netcoreapp3.1\odev2_soru2.Form1.resources
+C:\Users\enesk\Desktop\coding\EnesKılıçarslan-g201210016-Odev2\odev2-soru2\odev2-soru2\obj\Debug\netcoreapp3.1\odev2-soru2.csproj.GenerateResource.cache
+C:\Users\enesk\Desktop\coding\EnesKılıçarslan-g201210016-Odev2\odev2-soru2\odev2-soru2\obj\Debug\netcoreapp3.1\odev2-soru2.AssemblyInfoInputs.cache
+C:\Users\enesk\Desktop\coding\EnesKılıçarslan-g201210016-Odev2\odev2-soru2\odev2-soru2\obj\Debug\netcoreapp3.1\odev2-soru2.AssemblyInfo.cs
+C:\Users\enesk\Desktop\coding\EnesKılıçarslan-g201210016-Odev2\odev2-soru2\odev2-soru2\obj\Debug\netcoreapp3.1\odev2-soru2.csproj.CoreCompileInputs.cache
+C:\Users\enesk\Desktop\coding\EnesKılıçarslan-g201210016-Odev2\odev2-soru2\odev2-soru2\obj\Debug\netcoreapp3.1\odev2-soru2.dll
+C:\Users\enesk\Desktop\coding\EnesKılıçarslan-g201210016-Odev2\odev2-soru2\odev2-soru2\obj\Debug\netcoreapp3.1\odev2-soru2.pdb
+C:\Users\enesk\Desktop\coding\EnesKılıçarslan-g201210016-Odev2\odev2-soru2\odev2-soru2\obj\Debug\netcoreapp3.1\odev2-soru2.genruntimeconfig.cache
